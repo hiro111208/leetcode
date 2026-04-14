@@ -1,8 +1,7 @@
 {
   "[markdown]": {
-    "editor.formatOnSave": false,
+    "editor.formatOnSave": true,
     "editor.formatOnType": false,
-    "editor.defaultFormatter": null,
     "editor.codeActionsOnSave": {
       "source.fixAll": "never",
       "source.fixAll.eslint": "never",
