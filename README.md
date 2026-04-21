@@ -1,6 +1,6 @@
 # LeetCode
 
-## 問題: 
+## 問題: [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)
 
 ## 前提
 
