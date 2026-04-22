@@ -1,6 +1,6 @@
 # LeetCode
 
-## 問題: 
+## 問題: [929. Unique Email Address](https://leetcode.com/problems/unique-email-addresses/description/)
 
 ## 前提
 
