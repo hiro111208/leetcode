@@ -1,6 +1,6 @@
 # LeetCode
 
-## 問題: [Link Text](URL)
+## 問題: [112. Path Sum](https://leetcode.com/problems/path-sum/description/)
 
 ## 前提
 
