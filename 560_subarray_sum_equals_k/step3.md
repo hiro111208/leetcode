@@ -9,8 +9,7 @@ class Solution:
 
         for num in nums:
             prefix_sum += num
-            if prefix_sum - k in prefix_sum_to_count:
-                num_subarrays += prefix_sum_to_count[prefix_sum - k]
+            num_subarrays += prefix_sum_to_count.get(prefix_sum - k, 0)
             prefix_sum_to_count[prefix_sum] = prefix_sum_to_count.get(prefix_sum, 0) + 1
 
         return num_subarrays
