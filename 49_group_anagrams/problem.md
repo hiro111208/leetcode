@@ -1,1 +1,1 @@
-## 問題: [560. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)
+## 問題: [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)
