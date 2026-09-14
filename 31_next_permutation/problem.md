@@ -1,0 +1,1 @@
+## 問題: [31. Next Permutation](https://leetcode.com/problems/next-permutation/description/)
