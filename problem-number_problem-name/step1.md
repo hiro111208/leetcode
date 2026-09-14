@@ -2,6 +2,10 @@
 
 ## Approach 1
 
+### Explanation
+
+### Code
+
 ```python
 
 ```
